@@ -15,3 +15,5 @@ Prop Downloads:
 [D6 Dice](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/D6 "D6 Dice")
 
 [Basic Tv Video Player](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/Basic-TV-VideoPlayer "Basic Tv Video Player")
+
+[Advertising Booth](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/Booth "Advertising Booth")
