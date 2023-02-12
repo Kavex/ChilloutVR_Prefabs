@@ -17,3 +17,5 @@ Prop Downloads:
 [Basic Tv Video Player](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/Basic-TV-VideoPlayer "Basic Tv Video Player")
 
 [Advertising Booth](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/Booth "Advertising Booth")
+
+[Basic Edible Prop](https://github.com/Kavex/ChilloutVR_Prefabs/releases/tag/EdibleProp)
